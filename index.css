@@ -75,3 +75,14 @@ footer {
 .listaDinamica {
   color: orange;
 }
+
+.botones {
+  display: flex;
+  justify-content: space-between;
+}
+
+.boton {
+  width: 150px;
+  font-size: 12px;
+  margin: 2px 2px;
+}
